@@ -1,5 +1,6 @@
 # Data-Visualization-and-Storytelling-Task2
-Power BI Report: Superstore Sales Analysis
+#Power BI Report: Superstore Sales Analysis
+
 Overview
 This Power BI report analyzes sales and profit data from the Superstore dataset to provide actionable insights and support data-driven decision-making. The report focuses on key performance metrics, trends, and geographical insights, while also offering recommendations for improving business outcomes.
 
